@@ -1,0 +1,7 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipeable_c"
+    android:layout_width="1254dp"
+    android:layout_height="1343dp"
+    android:background="@drawable/swipeable_c"
+    />

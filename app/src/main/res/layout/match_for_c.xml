@@ -1,0 +1,8 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/match_for_c"
+    android:layout_width="380dp"
+    android:layout_height="835dp"
+    android:clipToOutline="true"
+    android:background="@drawable/match_for_c"
+    />

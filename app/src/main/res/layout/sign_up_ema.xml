@@ -1,0 +1,9 @@
+<!-- sign_up_ema.xml -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sign_up_ema"
+    android:layout_width="412dp"
+    android:layout_height="917dp"
+    android:clipToOutline="true"
+    android:background="#FFFFFF"
+    />
